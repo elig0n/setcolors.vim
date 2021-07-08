@@ -118,3 +118,4 @@ function! s:HourColor()
   echo g:colors_name
 endfunction
 
+call s:SetColors('all')
